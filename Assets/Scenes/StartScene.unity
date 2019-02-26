@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 702696661}
   - component: {fileID: 702696660}
   m_Layer: 5
-  m_Name: Settings button
+  m_Name: SettingsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -537,7 +537,7 @@ GameObject:
   - component: {fileID: 1187483087}
   - component: {fileID: 1187483086}
   m_Layer: 5
-  m_Name: Settings background
+  m_Name: SettingsBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -784,7 +784,7 @@ GameObject:
   - component: {fileID: 1699755791}
   - component: {fileID: 1699755790}
   m_Layer: 5
-  m_Name: Sound button
+  m_Name: SoundOnOffButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -905,7 +905,7 @@ GameObject:
   - component: {fileID: 1734491137}
   - component: {fileID: 1734491136}
   m_Layer: 5
-  m_Name: Start button
+  m_Name: StartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1031,7 +1031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1835117431}
   m_Layer: 0
-  m_Name: User interface
+  m_Name: UserInterface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1066,7 +1066,7 @@ GameObject:
   - component: {fileID: 1895528198}
   - component: {fileID: 1895528197}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: MainCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1148,7 +1148,7 @@ GameObject:
   - component: {fileID: 2006859978}
   - component: {fileID: 2006859977}
   m_Layer: 5
-  m_Name: Current version
+  m_Name: LabelCurrentAppVersion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1310,7 +1310,7 @@ GameObject:
   - component: {fileID: 2054743515}
   - component: {fileID: 2054743514}
   m_Layer: 5
-  m_Name: Music button
+  m_Name: MusicOnOffButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1515,7 +1515,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_TargetDisplay: 0
