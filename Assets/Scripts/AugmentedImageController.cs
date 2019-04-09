@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using GoogleARCore;
 using UnityEngine;
 
@@ -40,7 +39,7 @@ public class AugmentedImageController : MonoBehaviour
             else if (image.TrackingState == TrackingState.Stopped && visualizer != null)
             {
                 m_Visualizers.Remove(image.DatabaseIndex);
-                GameObject.Destroy(visualizer.gameObject);
+                Destroy(visualizer.gameObject);
             }
         }
 
